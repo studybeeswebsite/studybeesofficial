@@ -609,10 +609,11 @@ body#coming-soon-page {
 }
 
 .back-btn:hover {
-    /* fill this in with your accent color */
     background-color: your-color-here;
     color: #fdf0c8;
 }
+
+
 
 
 
