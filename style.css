@@ -774,7 +774,7 @@ nav a:hover {
 .bee-left-1 {
     width: 40px;
     top: 80px;
-    left: 330px;
+    left: 335px;
     animation: flutter-flipped 3s ease-in-out infinite;
     animation-delay: 0s;
 }
@@ -782,7 +782,7 @@ nav a:hover {
 .bee-left-2 {
     width: 28px;
     top: 140px;
-    left: 405px;
+    left: 390px;
     animation: flutter-flipped 3s ease-in-out infinite;
     animation-delay: 0.7s;
     animation-fill-mode: backwards;
